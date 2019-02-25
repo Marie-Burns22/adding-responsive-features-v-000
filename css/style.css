@@ -235,6 +235,16 @@ img, video, audio, iframe, table, form {
   color: white;
 }
 
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.google {
+  background: #dd4b39;
+  color: white;
+}
+
 /*a.fbook, a.twit, a.gplus {
   background: url(../images/social-icons.png) no-repeat;
 }
