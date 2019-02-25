@@ -214,6 +214,11 @@ img, video, audio, iframe, table, form {
   overflow: hidden;
 }
 
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
 a.fbook, a.twit, a.gplus {
   background: url(../images/social-icons.png) no-repeat;
 }
